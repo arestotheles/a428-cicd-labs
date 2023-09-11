@@ -16,3 +16,4 @@ the "Test" and "Deliver" stages of your Pipeline.
 Demo Pertemuan 2
 
 Mentoring Guru SMKN1
+Bapak Novi
